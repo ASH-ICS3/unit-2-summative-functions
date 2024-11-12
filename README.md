@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/tsXAzHXV)
 # Unit 2 Summative - Geometry Helper 📐
 
-##### ICS3 - Mr. Brash 🐿️
+##### ICS3 - Mr.J
 
 
 ## Review
@@ -23,9 +23,9 @@
 
 ## Your Task (The Summative)
 
-❗Hopefully you didn't miss class and your teacher was able to describe the task to you. Click on each below to see your task (read carefully).
+Click on each below to see your task (read carefully).
 
-You have 4 full class periods to complete this task (and any home time you wish to use but it is not forced). The goal is to complete Parts 1 & 2 (Level 3 & 4). If you move on to Part 3 and are successful in going "above and beyond", you will achieve an even higher level (assuming the code is clean, easy to read, etc). **A rubric is in the making and will be added when it is ready.**
+You have 2 full class periods to complete this task (and any home time you wish to use but it is not forced). The goal is to complete Parts 1 & 2 (Level 3 & 4). If you move on to Part 3 and are successful in going "above and beyond", you will achieve an even higher level (assuming the code is clean, easy to read, etc). **A rubric is in the making and will be added when it is ready.**
 
 ### [Part 1: Geometry Functions](./TASKS/PART1.md)
 
@@ -41,5 +41,3 @@ Feel free to modify the style and content of [index.html](./index.html) but you 
 
 <br>
 <br>
-
-🐿️
